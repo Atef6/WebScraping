@@ -1,3 +1,3 @@
 # web_scraping
 
-A new Flutter project.
+A Sample web Scraper for Dart & Flutter
